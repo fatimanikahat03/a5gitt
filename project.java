@@ -23,6 +23,7 @@ void  StringToIntExample {
         int number = Integer.parseInt(numberAsString);
         System.out.println(number);
     }
-
+//Adding one more block in featureA
+System.out.println("In FeatureB");
 
 }
