@@ -19,4 +19,8 @@ String s1="";
 s1=s1+a;
 System.out.println("new string is" +s1);
 }
+
+//new line in feature2 branch
+System.out.println("In feature2 branch added new  line here");
+
 }
