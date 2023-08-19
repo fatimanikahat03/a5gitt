@@ -18,4 +18,14 @@ void addition(double a,double b)
 double c=a+b;
 system.out.println("addition of two floating nos are "+c);
 }
+
+//featureA  block adding string to int code
+void  StringToIntExample {
+        String numberAsString = "1234";
+        int number = Integer.parseInt(numberAsString);
+        System.out.println(number);
+    }
+//Adding one more block in featureA
+System.out.println("In FeatureB");
+
 }
